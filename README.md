@@ -1,6 +1,6 @@
-# Bitcoin Mining Pools
+# Marscoin Mining Pools
 
-Mining pools definition used on https://mempool.space/mining/pools
+Mining pools definition used on https://explorer.marscoin.org/mining/pools
 
 # Contributing
 
@@ -10,7 +10,7 @@ Contributions welcome. All changes must be applied in `pools.json` file.
 
 Regardless of the choosen method, we recommend adding a appropriate slug to each
 new mining pool you add to `pools.json`. The slug will be used as a unique tag for
-the mining pool, for example in the public facing urls like https://mempool.space/mining/pool/foundryusa (here `foundryusa` is the slug).
+the mining pool, for example in the public facing urls like https://explorer.marscoin.org/mining/pool/foundryusa (here `foundryusa` is the slug).
 
 You can specify mining pool slugs in the `slugs` object in `pools.json`. If you
 don't specify one, we will automatically generate one [as such](https://github.com/mempool/mempool/blob/02820b0e6836c4202c2e346195e8aace357e3483/backend/src/api/pools-parser.ts#L106-L110).
