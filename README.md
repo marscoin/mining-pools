@@ -1,6 +1,6 @@
 # Marscoin Mining Pools
 
-Mining pools definition used on https://explorer.marscoin.org/mining/pools
+Mining pools definition used on https://explorer.marscoin.org/mining
 
 # Contributing
 
